@@ -63,7 +63,7 @@ The `bobcat` command is invoked with zero or more file operands:
 **1.  Clone the repository**:
     
     
-    `git clone https://github.com/UCSC-CSE-130/project1-bobcat.git` 
+    `git clone git@github.com:rajatmaheshwari17/bobcat-cli-tool.git` 
     
 **2.  Build the project**:
     
