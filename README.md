@@ -87,3 +87,6 @@ The `bobcat` command is invoked with zero or more file operands:
 -   Use `echo $?` to check the return code of the program.
 -   Use `valgrind --leak-check=full` to check for memory leaks.
 -   Ensure the code works in the specified development environment.
+
+#
+_This README is a part of the bobcat-cli-tool Project by Rajat Maheshwari._
