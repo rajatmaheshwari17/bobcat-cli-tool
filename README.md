@@ -63,23 +63,23 @@ The `bobcat` command is invoked with zero or more file operands:
 **1.  Clone the repository**:
     
     
-    `git clone git@github.com:rajatmaheshwari17/bobcat-cli-tool.git` 
+    git clone git@github.com:rajatmaheshwari17/bobcat-cli-tool.git 
     
 **2.  Build the project**:
     
    
-    `make` 
+    make 
     
 **3.  Format the source files**:
 
     
-    `make format` 
+    make format 
     
 **4.  Run the tool**:
     
     
     
-    `./bobcat [file ...]` 
+    ./bobcat [file ...] 
     
 
 ## Testing and Validation
